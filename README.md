@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21158
-Fork on GitHub6591
+
 <h1 align="center">Hi 👋, I'm Maharshi Agrawal</h1>
 <h3 align="center">Innovative data scientist and Python expert, blending analytical thinking, machine learning, and creativity to transform complex data into actionable insights and solve real-world challenges.</h3>
 
